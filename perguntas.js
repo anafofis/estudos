@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Quimica',
-    'o que é pH?',
+    'O que é pH?',
     'É uma medida que indica a acidez ou alcalinidade de uma solução aquosa.'
 )
