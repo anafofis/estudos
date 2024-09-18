@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'História',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Quais foram as principais causas da Revolução Fracesa?',
+    'Desigualdade social, crise econômica, ideias iluministas, frustração com a monarquia e fome e crise agrícolas'
 )
 
 criaCartao(
