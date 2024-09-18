@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'História',
     'Quais foram as principais causas da Revolução Fracesa?',
-    'Desigualdade social, crise econômica, ideias iluministas, frustração com a monarquia e fome e crise agrícolas'
+    'Desigualdade social, crise econômica, ideias iluministas, frustração com a monarquia, fome e crise agrícolas'
 )
 
 criaCartao(
